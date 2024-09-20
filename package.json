@@ -1,0 +1,16 @@
+{
+  "name": "task-tracker-cli",
+  "version": "1.0.0",
+  "bin": {
+    "task-cli": "./index.cjs"
+  },
+  "type": "module",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Diego Letelier",
+  "license": "MIT",
+  "description": "TASK TODO CLI"
+}
