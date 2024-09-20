@@ -11,8 +11,8 @@ A simple command-line interface (CLI) for managing tasks. You can add, list, mar
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
-   cd <repository-directory>
+   git clone [<repository-url>](https://github.com/diegoleteliers10/task-cli-todo.git)
+   cd task-cli-todo
    ```
 
 2. Install dependencies (if any):
